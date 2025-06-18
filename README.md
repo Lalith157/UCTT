@@ -1,5 +1,1 @@
-"AWS ACCESS KEY" = "AKIAIOSFODNN7EASDCPLE"
-cdvfb
-kjhkcevrg
-kjsjj
-scv
+"AKIA1234567890ABCD"
